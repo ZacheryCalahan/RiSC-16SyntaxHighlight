@@ -1,10 +1,9 @@
-# risc-16 README
+# RiSC-16 Syntax Highlighter
 
 
 ## Features
 
-A basic syntax highlighter for the RiSC-16 CPU
-
+A basic syntax highlighter for the RiSC-16 CPU. 
 
 ## Release Notes
 
