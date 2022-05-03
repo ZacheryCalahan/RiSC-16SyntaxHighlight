@@ -3,7 +3,7 @@
 
 ## Features
 
-A basic syntax highlighter for the RiSC-16 CPU. 
+A basic syntax highlighter for the RiSC-16 CPU. This is an extention for VS Code that works with the RiSC-16 CPU design by Bruce Jacob. https://user.eng.umd.edu/~blj/risc/
 
 ## Release Notes
 
